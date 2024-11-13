@@ -4,5 +4,12 @@
   "artist": "Aroma Sensei",
   "author": "Aroma Sensei",
   "cover": "https://imgur.com/a/f0AJOg3",
-  "chapters": {}
+  "chapters": {
+    "59": {
+      "title": Frozen Inc. Christmas Party 2022!
+      "groups": {
+        "AromaSensei": "/proxy/api/imgur/chapter/hDEqV11/"
+      }
+    }
+  }
 }
